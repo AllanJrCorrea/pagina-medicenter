@@ -1,2 +1,3 @@
-# pagina-medicenter
-1° Projeto feito em HTLM5 + CSS3 + JAVASCRIPT - Inspirado na página medicenter
+# 1° Página
+
+Esse foi um projeto que pratiquei HTML E CSS, inspirado uma página de uma clínica médica.
